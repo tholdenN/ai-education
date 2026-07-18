@@ -1,4 +1,4 @@
 # ai-education
 all important papers and lectures on AI
 
-[BOOK - AI ENGINEERING]([http://cs224d.stanford.edu](https://github.com/tholdenN/ai-education/blob/main/AI%20Engineering%20(Chip%20Huyen)%20(Z-Library).pdf))
+[BOOK - AI ENGINEERING]((https://github.com/tholdenN/ai-education/blob/main/AI%20Engineering%20(Chip%20Huyen)%20(Z-Library).pdf))
